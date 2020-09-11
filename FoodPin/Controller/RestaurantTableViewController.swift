@@ -5,6 +5,7 @@
 //  Created by Nadia Siddiqah on 9/9/20.
 //  Copyright © 2020 Nadia Siddiqah. All rights reserved.
 //
+//
 
 import UIKit
 
@@ -154,8 +155,3 @@ class RestaurantTableViewController: UITableViewController {
 
     
 }
-
-
-
-
-
