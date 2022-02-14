@@ -1,4 +1,4 @@
-# FoodPin-App-
+# FoodPin-App
 
 An app where food lovers can save their recent experience at a restaurant. Users can add photos and information for their favorite spots.
 
